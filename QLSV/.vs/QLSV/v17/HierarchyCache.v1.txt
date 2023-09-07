@@ -1,0 +1,426 @@
+﻿++Solution 'QLSV' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:QLSV.sln
+++QLSV
+i:{00000000-0000-0000-0000-000000000000}:QLSV
+++Connected Services
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\connected services\
+++Properties
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\
+++References
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++AcroPDFLib
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++AxAcroPDFLib
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++BouncyCastle.Crypto
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++EPPlus
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++itextsharp
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.CSharp
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.IO.RecyclableMemoryStream
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.Office.Core
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.Office.Interop.Access
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.Office.Interop.Excel
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.Office.Interop.Word
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.ReportViewer.Common
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.ReportViewer.DataVisualization
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.ReportViewer.Design
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.ReportViewer.ProcessingObjectModel
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.ReportViewer.WinForms
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Microsoft.SqlServer.Types
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++PresentationCore
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Buffers
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.ComponentModel.Annotations
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.ComponentModel.DataAnnotations
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.configuration
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Core
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Data
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Data.DataSetExtensions
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Deployment
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Drawing
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Memory
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Net.Http
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Numerics
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Numerics.Vectors
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Runtime.CompilerServices.Unsafe
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Security
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Threading.Tasks
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Windows.Forms
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Windows.Forms.DataVisualization
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Xml
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++System.Xml.Linq
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++VBIDE
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Xceed.Document.NET
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Xceed.Pdf
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Xceed.Words.NET
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:
+++Course
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\
+++AddCourseForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\addcourseform.cs
+++EditCourseForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\editcourseform.cs
+++ManageCourseForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\managecourseform.cs
+++PrintCourseForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\printcourseform.cs
+++RemoveCourseForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\removecourseform.cs
+++HR
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\
+++AddContactForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\addcontactform.cs
+++EditContactForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editcontactform.cs
+++EditMyInfoForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editmyinfoform.cs
+++HRMainForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\hrmainform.cs
+++SelectContactForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\selectcontactform.cs
+++Images
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\
+++Login
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\
+++CreateNewAccountForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\createnewaccountform.cs
+++ForgotPasswordForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\forgotpasswordform.cs
+++HRLoadingForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\hrloadingform.cs
+++LoadingForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loadingform.cs
+++LoginForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loginform.cs
+++MainForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\mainform.cs
+++Result
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\
+++Score
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\
+++AddScoreForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\addscoreform.cs
+++AvgByScore.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\avgbyscore.cs
+++ManageScoreForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\managescoreform.cs
+++PrintScoreForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\printscoreform.cs
+++RemoveScoreForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\removescoreform.cs
+++TestReportForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\testreportform.cs
+++TestReportForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\testreportform.designer.cs
+++TestReportForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\testreportform.resx
+++SqlServerTypes
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\
+++Student
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\
+++AddStudentForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\addstudentform.cs
+++ManageStudentForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\managestudentform.cs
+++PrintStudentForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\printstudentform.cs
+++StaticsForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\staticsform.cs
+++StudentListForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\studentlistform.cs
+++UpdateDeleteStudentForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\updatedeletestudentform.cs
+++AccountLogin.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\accountlogin.cs
+++App.config
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\app.config
+++Contact.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\contact.cs
+++Course.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course.cs
+++CourseExport.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\courseexport.cs
+++Global.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\global.cs
+++Group.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\group.cs
+++HRLogin.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hrlogin.cs
+++MY_DB.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\my_db.cs
+++packages.config
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\packages.config
+++Program.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\program.cs
+++QLSVDataSetAvgScore.xsd
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetavgscore.xsd
+++QLSVDataSetCourse.xsd
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcourse.xsd
+++QLSVDataSetCourse.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcourse.designer.cs
+++QLSVDataSetCourse.xsc
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcourse.xsc
+++QLSVDataSetCourse.xss
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcourse.xss
+++QLSVDataSetCouScoStd.xsd
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcouscostd.xsd
+++QLSVDataSetResults.xsd
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetresults.xsd
+++QLSVDataSettt.xsd
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasettt.xsd
+++ResultExport.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\resultexport.cs
+++Score.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score.cs
+++ScoreExport.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\scoreexport.cs
+++Student.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student.cs
+++StudentExport.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\studentexport.cs
+++User.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\user.cs
+++AssemblyInfo.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\assemblyinfo.cs
+++Resources.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\resources.resx
+++Settings.settings
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\settings.settings
+++AddCourseForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\addcourseform.designer.cs
+++AddCourseForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\addcourseform.resx
+++EditCourseForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\editcourseform.designer.cs
+++EditCourseForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\editcourseform.resx
+++ManageCourseForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\managecourseform.designer.cs
+++ManageCourseForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\managecourseform.resx
+++PrintCourseForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\printcourseform.designer.cs
+++PrintCourseForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\printcourseform.resx
+++RemoveCourseForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\removecourseform.designer.cs
+++RemoveCourseForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\course\removecourseform.resx
+++AddContactForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\addcontactform.designer.cs
+++AddContactForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\addcontactform.resx
+++EditContactForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editcontactform.designer.cs
+++EditContactForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editcontactform.resx
+++EditMyInfoForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editmyinfoform.designer.cs
+++EditMyInfoForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\editmyinfoform.resx
+++HRMainForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\hrmainform.designer.cs
+++HRMainForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\hrmainform.resx
+++SelectContactForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\selectcontactform.designer.cs
+++SelectContactForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\hr\selectcontactform.resx
+++2 (1).png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\2 (1).png
+++download (1).jpeg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\download (1).jpeg
+++download (1).png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\download (1).png
+++exit-icon-4609.png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\exit-icon-4609.png
+++hinh-nen-cuc-dep-cho-may-tinh-14.jpg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\hinh-nen-cuc-dep-cho-may-tinh-14.jpg
+++hinh-nen-may-tinh-2.jpg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\hinh-nen-may-tinh-2.jpg
+++hinh-nen-may-tinh-24.jpg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\hinh-nen-may-tinh-24.jpg
+++images (1).jpeg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\images (1).jpeg
+++images (2).jpeg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\images (2).jpeg
+++images (3).jpeg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\images (3).jpeg
+++images.jpeg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\images.jpeg
+++loading-8bit.jpg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\loading-8bit.jpg
+++passwordicon.png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\passwordicon.png
+++phan-mem-quan-ly-hoc-sinh.jpg
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\phan-mem-quan-ly-hoc-sinh.jpg
+++student-management-11.png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\student-management-11.png
+++types of student (c) elenabsl shutterstock_1012966183.png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\types of student (c) elenabsl shutterstock_1012966183.png
+++usericon.png
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\images\usericon.png
+++CreateNewAccountForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\createnewaccountform.designer.cs
+++CreateNewAccountForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\createnewaccountform.resx
+++ForgotPasswordForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\forgotpasswordform.designer.cs
+++ForgotPasswordForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\forgotpasswordform.resx
+++HRLoadingForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\hrloadingform.designer.cs
+++HRLoadingForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\hrloadingform.resx
+++LoadingForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loadingform.designer.cs
+++LoadingForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loadingform.resx
+++LoginForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loginform.designer.cs
+++LoginForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\loginform.resx
+++MainForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\mainform.designer.cs
+++MainForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\login\mainform.resx
+++AvgResultByScoreForm.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\avgresultbyscoreform.cs
+++StaticResult.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\staticresult.cs
+++AddScoreForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\addscoreform.designer.cs
+++AddScoreForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\addscoreform.resx
+++AvgByScore.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\avgbyscore.designer.cs
+++AvgByScore.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\avgbyscore.resx
+++ManageScoreForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\managescoreform.designer.cs
+++ManageScoreForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\managescoreform.resx
+++PrintScoreForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\printscoreform.designer.cs
+++PrintScoreForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\printscoreform.resx
+++RemoveScoreForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\removescoreform.designer.cs
+++RemoveScoreForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\score\removescoreform.resx
+++x64
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x64\
+++x86
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x86\
+++Loader.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\loader.cs
+++readme.htm
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\readme.htm
+++AddStudentForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\addstudentform.designer.cs
+++AddStudentForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\addstudentform.resx
+++ManageStudentForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\managestudentform.designer.cs
+++ManageStudentForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\managestudentform.resx
+++PrintStudentForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\printstudentform.designer.cs
+++PrintStudentForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\printstudentform.resx
+++StaticsForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\staticsform.designer.cs
+++StaticsForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\staticsform.resx
+++StudentListForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\studentlistform.designer.cs
+++StudentListForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\studentlistform.resx
+++UpdateDeleteStudentForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\updatedeletestudentform.designer.cs
+++UpdateDeleteStudentForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\student\updatedeletestudentform.resx
+++QLSVDataSetAvgScore.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetavgscore.designer.cs
+++QLSVDataSetAvgScore.xsc
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetavgscore.xsc
+++QLSVDataSetAvgScore.xss
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetavgscore.xss
+++QLSVDataSetCouScoStd.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcouscostd.designer.cs
+++QLSVDataSetCouScoStd.xsc
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcouscostd.xsc
+++QLSVDataSetCouScoStd.xss
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetcouscostd.xss
+++QLSVDataSetResults.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetresults.cs
+++QLSVDataSetResults.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetresults.designer.cs
+++QLSVDataSetResults.xsc
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetresults.xsc
+++QLSVDataSetResults.xss
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasetresults.xss
+++QLSVDataSettt.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasettt.designer.cs
+++QLSVDataSettt.xsc
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasettt.xsc
+++QLSVDataSettt.xss
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\qlsvdatasettt.xss
+++Resources.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\properties\settings.designer.cs
+++AvgResultByScoreForm.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\avgresultbyscoreform.designer.cs
+++AvgResultByScoreForm.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\avgresultbyscoreform.resx
+++StaticResult.Designer.cs
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\staticresult.designer.cs
+++StaticResult.resx
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\result\staticresult.resx
+++msvcr120.dll
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x64\msvcr120.dll
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x86\msvcr120.dll
+++SqlServerSpatial140.dll
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x64\sqlserverspatial140.dll
+i:{4fa2622e-7ff0-46da-9000-bc4e87200514}:c:\users\nam\onedrive\desktop\đhspkt\hk2 t2 2022\window programming\midterm project\miproject\qlsv\sqlservertypes\x86\sqlserverspatial140.dll
