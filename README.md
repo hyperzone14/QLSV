@@ -1,2 +1,2 @@
 # QLSV
-A winform project about manage the student score of a faculty
+A winform project about managing the student score of a faculty
